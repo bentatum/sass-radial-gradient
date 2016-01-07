@@ -1,6 +1,6 @@
 {
   "name": "sass-radial-gradient",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Sass mixin for radial backgrounds.",
   "main": "index.js",
   "scripts": {
